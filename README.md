@@ -1,4 +1,4 @@
-Home Work 2 - Agency Landing Page
+Home Work - Agency Landing Page
 
 This project from courses Hillel iT 
 
