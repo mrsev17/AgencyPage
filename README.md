@@ -1,2 +1,1 @@
-# AgencyPage
- Project from courses Hillel iT
+Home Work 2 - Agency Landing Page
