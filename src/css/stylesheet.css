@@ -792,7 +792,10 @@ footer ul li {
     display: block;
     margin: 33px 0 145px 78px;
   }
-
+  .get-touch .button-send-get-touch {
+    padding: 17px 0;
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 960px) {
